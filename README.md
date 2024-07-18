@@ -1,16 +1,20 @@
 Welcome to my GitHub profile! 
+
 Hi I am Garima Joshi! I am currently persuing my BTech degree with a passion for web development. I thrive on learning new technologies and building projects that push the boundariesof what's possible.
 
 KEY SKILLS:
+
  Frontend: HTML,CSS,JavaScript,React
  Backend: Node.js
  Database: SQL
 
 CURRENT FOCUS:
+
  Enhancing my skills in full-stack development.
  Exploring modern frameworks and directories.
 
 CAREER GOALS:
+
  To contribute to impactful open-source projects.
  To learn and grow as a developer
 
