@@ -24,6 +24,7 @@ CAREER GOALS:
  To learn and grow as a developer
 
 Feel free to explore my repositories, or to conribute to my ongoing projects. I'll be excited to connect with my fellow developers and collaborate  on innovative projects.
+
 LET'S COLLABORATE AND BUILD SOMETHING AMAZING TOGETHER!!!
 
 
