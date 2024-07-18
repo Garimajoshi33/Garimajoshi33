@@ -4,15 +4,16 @@
 Hi I am Garima Joshi! I am currently persuing my BTech degree with a passion for web development. I thrive on learning new technologies and building projects that push the boundariesof what's possible.
 
 <h3>KEY SKILLS:</h3>
- <br>
+
  Frontend: HTML,CSS,JavaScript
  <br>
  Backend: Node.js
  <br>
  Database: SQL
  <br>
-<h3>CURRENT FOCUS:</h3>
  <br>
+<h3>CURRENT FOCUS:</h3>
+ 
  Enhancing my skills in full-stack development.
  <br>
  Exploring modern frameworks and directories.
@@ -24,8 +25,9 @@ Hi I am Garima Joshi! I am currently persuing my BTech degree with a passion for
 <br>
  To learn and grow as a developer
 <br>
+<br>
 Feel free to explore my repositories, or to conribute to my ongoing projects. I'll be excited to connect with my fellow developers and collaborate  on innovative projects.
-
+<br>
 <h2>LET'S COLLABORATE AND BUILD SOMETHING AMAZING TOGETHER!!!</h2>
 
 
