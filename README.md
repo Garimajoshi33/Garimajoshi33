@@ -4,22 +4,23 @@ Hi I am Garima Joshi! I am currently persuing my BTech degree with a passion for
 
 KEY SKILLS:
 
- Frontend: HTML,CSS,JavaScript,React
- 
+
+ Frontend: HTML,CSS,JavaScript
+
  Backend: Node.js
- 
+
  Database: SQL
 
 CURRENT FOCUS:
 
+
  Enhancing my skills in full-stack development.
- 
  Exploring modern frameworks and directories.
 
 CAREER GOALS:
 
+
  To contribute to impactful open-source projects.
- 
  To learn and grow as a developer
 
 Feel free to explore my repositories, or to conribute to my ongoing projects. I'll be excited to connect with my fellow developers and collaborate  on innovative projects.
