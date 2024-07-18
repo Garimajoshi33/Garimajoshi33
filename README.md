@@ -8,19 +8,19 @@ KEY SKILLS:
  Frontend: HTML,CSS,JavaScript
  <br>
  Backend: Node.js
-
+ <br>
  Database: SQL
 
-CURRENT FOCUS:
-
-
+<h1>CURRENT FOCUS:</h1>
+ <br>
  Enhancing my skills in full-stack development.
+ <br>
  Exploring modern frameworks and directories.
 
 CAREER GOALS:
 
-
  To contribute to impactful open-source projects.
+ <br>
  To learn and grow as a developer
 
 Feel free to explore my repositories, or to conribute to my ongoing projects. I'll be excited to connect with my fellow developers and collaborate  on innovative projects.
