@@ -1,5 +1,5 @@
 
-<h1>Welcome to my GitHub profile!</h1>
+<h1><center>Welcome to my GitHub profile!</center></h1>
 
 Hi I am Garima Joshi! I am currently persuing my BTech degree with a passion for web development. I thrive on learning new technologies and building projects that push the boundariesof what's possible.
 
@@ -20,8 +20,10 @@ Hi I am Garima Joshi! I am currently persuing my BTech degree with a passion for
  <br>
 <h3>CAREER GOALS:</h3>
 <br>
+<ul>
  <li>To contribute to impactful open-source projects.</li>
- <li></li>To learn and grow as a developer
+ <li>To learn and grow as a developer</li>
+</ul>
 <br>
 <br>
 Feel free to explore my repositories, or to conribute to my ongoing projects. I'll be excited to connect with my fellow developers and collaborate  on innovative projects.
