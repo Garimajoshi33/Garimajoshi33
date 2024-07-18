@@ -6,7 +6,7 @@ KEY SKILLS:
 
 
  Frontend: HTML,CSS,JavaScript
-
+ <br>
  Backend: Node.js
 
  Database: SQL
