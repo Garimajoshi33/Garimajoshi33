@@ -1,7 +1,7 @@
 
 <h1 align = "center"> Welcome to my GitHub profile!</h1>
 
-Hi I am Garima Joshi! I am currently persuing my BTech degree with a passion for web development. I thrive on learning new technologies and building projects that push the boundariesof what's possible.
+Hi I am Garima Joshi! I am currently pursuing my B.Tech. degree with a passion for web development. I thrive on learning new technologies and building projects that push the boundaries of what's possible.
 
 <h3>KEY SKILLS:</h3>
  <ul>
